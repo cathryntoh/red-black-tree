@@ -1,2 +1,2 @@
-# red-black-tree
-Code for a self-balancing red black tree.
+# Self-Balancing Red Black Tree Algorithm
+This algorithm autonomously balances itself whenever a new node is added or an existing node is removed.
